@@ -1,0 +1,20 @@
+﻿@inherits LayoutComponentBase
+
+<HeadContent>
+	<title>@title</title>
+	<meta name="description" content="@description">
+	<meta name="author" content="@author">
+	<meta name="keywords" content="@description" />
+</HeadContent>
+<PageTitle>@title</PageTitle>
+
+<Navigation />
+
+@Body
+
+@code {
+	private string description = "Engin Marshall";
+	private string title = "Engin Marshall";
+	private string author = "Engin Marshall";
+	private string keywords = "engin, marshall, engin marshall, web programming, webdesign, web developer, coder, developer, .net, c#";
+}

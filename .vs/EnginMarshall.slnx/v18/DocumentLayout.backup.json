@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Githubprojects\\enginmarshall_com\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|e:\\githubprojects\\enginmarshall_com\\enginmarshall\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|e:\\githubprojects\\enginmarshall_com\\enginmarshall\\wwwroot\\css\\webgoodies.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\wwwroot\\css\\webgoodies.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|e:\\githubprojects\\enginmarshall_com\\enginmarshall\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|e:\\githubprojects\\enginmarshall_com\\enginmarshall\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|e:\\githubprojects\\enginmarshall_com\\enginmarshall\\components\\layout\\navigation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\components\\layout\\navigation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|e:\\githubprojects\\enginmarshall_com\\enginmarshall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|e:\\githubprojects\\enginmarshall_com\\enginmarshall\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\Components\\App.razor",
+              "RelativeDocumentMoniker": "EnginMarshall\\Components\\App.razor",
+              "ToolTip": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\Components\\App.razor",
+              "RelativeToolTip": "EnginMarshall\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T17:36:24.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "EnginMarshall\\Components\\Pages\\Counter.razor",
+              "ToolTip": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "EnginMarshall\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T18:14:55.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Navigation.razor",
+              "DocumentMoniker": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\Components\\Layout\\Navigation.razor",
+              "RelativeDocumentMoniker": "EnginMarshall\\Components\\Layout\\Navigation.razor",
+              "ToolTip": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\Components\\Layout\\Navigation.razor",
+              "RelativeToolTip": "EnginMarshall\\Components\\Layout\\Navigation.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T19:35:55.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "webgoodies.css",
+              "DocumentMoniker": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\wwwroot\\css\\webgoodies.css",
+              "RelativeDocumentMoniker": "EnginMarshall\\wwwroot\\css\\webgoodies.css",
+              "ToolTip": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\wwwroot\\css\\webgoodies.css",
+              "RelativeToolTip": "EnginMarshall\\wwwroot\\css\\webgoodies.css",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAACABAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-14T19:00:11.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "EnginMarshall\\Components\\Pages\\Home.razor",
+              "ToolTip": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "EnginMarshall\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T18:14:13.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\Program.cs",
+              "RelativeDocumentMoniker": "EnginMarshall\\Program.cs",
+              "ToolTip": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\Program.cs",
+              "RelativeToolTip": "EnginMarshall\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T17:46:48.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.css",
+              "DocumentMoniker": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "EnginMarshall\\wwwroot\\app.css",
+              "ToolTip": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\wwwroot\\app.css",
+              "RelativeToolTip": "EnginMarshall\\wwwroot\\app.css",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwGwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-14T19:00:43.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
