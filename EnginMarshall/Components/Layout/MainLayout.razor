@@ -1,16 +1,23 @@
-﻿@inherits LayoutComponentBase
+﻿@using EnginMarshall.Components.Pages.PageComponents
+
+@inherits LayoutComponentBase
 
 <HeadContent>
 	<title>@title</title>
 	<meta name="description" content="@description">
 	<meta name="author" content="@author">
-	<meta name="keywords" content="@description" />
+	<meta name="keywords" content="@keywords" />
 </HeadContent>
+
 <PageTitle>@title</PageTitle>
 
-<Navigation />
 
-@Body
+<div class="container-fluid">
+	<Navigation />
+	<HeroComponent />
+	@Body
+	<ContactComponent />
+</div>
 
 @code {
 	private string description = "Engin Marshall";
