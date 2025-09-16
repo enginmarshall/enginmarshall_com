@@ -1,25 +1,23 @@
 ﻿@import "variables";
 
 html {
-    background-color: var(--background-color);
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
+  background-color: var(--background-color);
+  width: 100% !important;
+  height: 100% !important;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    width: 100%;
-    height: 100%;
-    font-size: var(--default-font-size);
-    line-height: 1.5;
-    font-family: var(--primary-font-family);
-    color: var(--default-font-color);
-    background-color: var(--background-color);
-    margin: 0;
-    padding: 0;
-    webkit-tap-highlight-color: var(--link-highlight-color);
-    webkit-tap-highlight-color: var(--link-highlight-color);
+  width: 100% !important;
+  height: 100% !important;
+  font-size: var(--default-font-size);
+  line-height: 4rem;
+  font-family: var(--primary-font-family);
+  color: var(--default-font-color);
+  background-color: var(--background-color);
+  margin: 0;
+  padding: 0;
+  webkit-tap-highlight-color: var(--link-highlight-color);
+  webkit-tap-highlight-color: var(--link-highlight-color);
 }
-
-
