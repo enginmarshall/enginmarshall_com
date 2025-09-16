@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Githubprojects\\enginmarshall_com\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|e:\\githubprojects\\enginmarshall_com\\enginmarshall\\wwwroot\\css\\webgoodies.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\wwwroot\\css\\webgoodies.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|e:\\githubprojects\\enginmarshall_com\\enginmarshall\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|e:\\githubprojects\\enginmarshall_com\\enginmarshall\\wwwroot\\css\\webgoodies.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\wwwroot\\css\\webgoodies.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|e:\\githubprojects\\enginmarshall_com\\enginmarshall\\wwwroot\\css\\typography.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -31,12 +31,12 @@
       "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|e:\\githubprojects\\enginmarshall_com\\enginmarshall\\components\\layout\\navigation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\components\\layout\\navigation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|e:\\githubprojects\\enginmarshall_com\\enginmarshall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\Components\\Layout\\Navigation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnginMarshall\\Components\\Layout\\Navigation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -92,12 +92,11 @@
               "RelativeToolTip": "EnginMarshall\\wwwroot\\css\\variables.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-15T07:43:44.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T07:43:44.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Navigation.razor",
               "DocumentMoniker": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\Components\\Layout\\Navigation.razor",
               "RelativeDocumentMoniker": "EnginMarshall\\Components\\Layout\\Navigation.razor",
@@ -109,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\Program.cs",
               "RelativeDocumentMoniker": "EnginMarshall\\Program.cs",
@@ -121,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "webgoodies.css",
               "DocumentMoniker": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\wwwroot\\css\\webgoodies.css",
               "RelativeDocumentMoniker": "EnginMarshall\\wwwroot\\css\\webgoodies.css",
               "ToolTip": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\wwwroot\\css\\webgoodies.css",
               "RelativeToolTip": "EnginMarshall\\wwwroot\\css\\webgoodies.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAcwKQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-09-14T19:00:11.155Z",
               "EditorCaption": ""
@@ -140,13 +139,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "responsive.css",
               "DocumentMoniker": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\wwwroot\\css\\responsive.css",
               "RelativeDocumentMoniker": "EnginMarshall\\wwwroot\\css\\responsive.css",
               "ToolTip": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\wwwroot\\css\\responsive.css",
               "RelativeToolTip": "EnginMarshall\\wwwroot\\css\\responsive.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-09-15T07:16:59.929Z",
               "EditorCaption": ""
@@ -167,8 +166,7 @@
               "RelativeToolTip": "EnginMarshall\\wwwroot\\app.css",
               "ViewState": "AgIAAIUDAAAAAAAAAAAcwMMDAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-16T07:39:11.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T07:39:11.842Z"
             },
             {
               "$type": "Document",
@@ -180,8 +178,7 @@
               "RelativeToolTip": "EnginMarshall\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-14T18:14:13.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T18:14:13.561Z"
             },
             {
               "$type": "Document",
@@ -191,7 +188,7 @@
               "RelativeDocumentMoniker": "EnginMarshall\\wwwroot\\css\\typography.css",
               "ToolTip": "E:\\Githubprojects\\enginmarshall_com\\EnginMarshall\\wwwroot\\css\\typography.css",
               "RelativeToolTip": "EnginMarshall\\wwwroot\\css\\typography.css",
-              "ViewState": "AgIAADcAAAAAAAAAAAAcwHUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAcwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-09-15T07:04:29.028Z",
               "EditorCaption": ""
@@ -206,8 +203,7 @@
               "RelativeToolTip": "EnginMarshall\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-14T17:36:24.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T17:36:24.708Z"
             }
           ]
         }
