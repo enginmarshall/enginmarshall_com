@@ -1,0 +1,39 @@
+﻿@media(min-width:375px) {
+    .intro {
+        min-height: 70rem;
+    }
+
+    .brand-heading {
+        font-size: 6rem;
+    }
+
+    .intro-text {
+        font-size: 3rem;
+    }
+}
+
+@media(min-width:576px) {
+    .intro {
+        min-height: 80rem;
+    }
+
+    .brand-heading {
+        font-size: 10rem;
+    }
+
+    .intro-text {
+        font-size: 4rem;
+    }
+}
+
+@media(min-width:1200px) {
+    .brand-heading {
+        font-size: 16rem;
+    }
+}
+
+@media(min-width:1400px) {
+    .brand-heading {
+        font-size: 16rem;
+    }
+}

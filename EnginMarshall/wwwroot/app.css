@@ -1,30 +1,8 @@
-a {
-    color: #333;
-    outline: none;
-    padding-left: 3px;
-    padding-right: 3px;
-    text-decoration: underline;
-}
 
-a:link, a:visited,
-a:active, a:hover {
-    color: #fff;
-}
-
-
-
-a:hover {
-    background-color: #c7d1d6;
-}
-
-
-
-header, footer, hgroup,
+/*header, footer, hgroup,
 nav, section {
     display: block;
 }
-
-
 
 mark {
     background-color: #a6dbed;
@@ -32,19 +10,13 @@ mark {
     padding-right: 5px;
 }
 
-
-
 .float-left {
     float: left;
 }
 
-
-
 .float-right {
     float: right;
 }
-
-
 
 .clear-fix:after {
     content: ".";
@@ -54,38 +26,6 @@ mark {
     visibility: hidden;
 }
 
-
-
-h1, h2, h3,
-h4, h5, h6 {
-    color: #000;
-    margin-bottom: 0;
-    padding-bottom: 0;
-}
-
-
-
-h1 {
-    font-size: 2em;
-}
-
-
-
-h2 {
-    font-size: 1.75em;
-}
-
-
-
-h3 {
-    font-size: 1.2em;
-}
-
-
-
-h4 {
-    font-size: 1.1em;
-}
 
 
 
@@ -98,7 +38,7 @@ h5, h6 {
     h5 a:link, h5 a:visited, h5 a:active {
         padding: 0;
         text-decoration: none;
-    }
+    }*/
 
 
 
@@ -108,7 +48,7 @@ h5, h6 {
 
 ----------------------------------------------------------*/
 
-.content-wrapper {
+/*.content-wrapper {
     margin: 0 auto;
     max-width: 960px;
 }
@@ -148,7 +88,7 @@ footer {
     background-color: #e2e2e2;
     font-size: .8em;
     height: 100px;
-}
+}*/
 
 
 
@@ -158,7 +98,7 @@ footer {
 
 ----------------------------------------------------------*/
 
-.site-title {
+/*.site-title {
     color: #c8c8c8;
     font-family: Rockwell, Consolas, "Courier New", Courier, monospace;
     font-size: 2.3em;
@@ -172,7 +112,7 @@ footer {
         color: #c8c8c8;
         outline: none;
         text-decoration: none;
-    }
+    }*/
 
 
 
@@ -182,7 +122,7 @@ footer {
 
 ----------------------------------------------------------*/
 
-#login {
+/*#login {
     display: block;
     font-size: .85em;
     margin: 0 0 10px;
@@ -219,7 +159,7 @@ footer {
     #login li {
         display: inline;
         list-style: none;
-    }
+    }*/
 
 
 
@@ -229,7 +169,7 @@ footer {
 
 ----------------------------------------------------------*/
 
-ul#menu {
+/*ul#menu {
     font-size: 1.3em;
     font-weight: 600;
     margin: 0 0 5px;
@@ -258,7 +198,7 @@ ul#menu {
             ul#menu li a:hover {
                 color: #333;
                 text-decoration: none;
-            }
+            }*/
 
 
 
@@ -270,7 +210,7 @@ ul#menu {
 
 /* featured */
 
-.featured {
+/*.featured {
     background-color: #fff;
 }
 
@@ -297,13 +237,13 @@ ul#menu {
 
     .featured p {
         font-size: 1.1em;
-    }
+    }*/
 
 
 
 /* page titles */
 
-hgroup.title {
+/*hgroup.title {
     margin-bottom: 10px;
 }
 
@@ -318,23 +258,23 @@ hgroup.title {
     hgroup.title h2 {
         font-weight: normal;
         margin-left: 3px;
-    }
+    }*/
 
 
 
 /* features */
 
-section.feature {
+/*section.feature {
     width: 300px;
     float: left;
     padding: 10px;
-}
+}*/
 
 
 
 /* ordered list */
 
-ol.round {
+/*ol.round {
     list-style-type: none;
     padding-left: 0;
 }
@@ -404,13 +344,13 @@ ol.round {
 
         ol.round li.nine {
             background: url("../Images/orderedList9.png") no-repeat;
-        }
+        }*/
 
 
 
 /* content */
 
-article {
+/*article {
     float: left;
     width: 70%;
 }
@@ -440,13 +380,13 @@ aside {
 
 .label {
     font-weight: 700;
-}
+}*/
 
 
 
 /* login page */
 
-#loginForm {
+/*#loginForm {
     border-right: solid 2px #c8c8c8;
     float: left;
     width: 55%;
@@ -513,13 +453,13 @@ aside {
 
 #logoutForm {
     display: inline;
-}
+}*/
 
 
 
 /* forms */
 
-fieldset {
+/*fieldset {
     border: none;
     margin: 0;
     padding: 0;
@@ -614,13 +554,13 @@ td button {
     font-size: 1em;
     padding: 4px;
     margin-right: 4px;
-}
+}*/
 
 
 
 /* info and errors */
 
-.message-info {
+/*.message-info {
     border: 1px solid;
     clear: both;
     padding: 10px 20px;
@@ -649,13 +589,13 @@ td button {
 
 .error {
     color: #e80c4d;
-}
+}*/
 
 
 
 /* styles for validation helpers */
 
-.field-validation-error {
+/*.field-validation-error {
     color: #e80c4d;
     font-weight: bold;
 }
@@ -690,7 +630,7 @@ input[type="checkbox"].input-validation-error {
 
 .validation-summary-valid {
     display: none;
-}
+}*/
 
 
 
@@ -700,7 +640,7 @@ input[type="checkbox"].input-validation-error {
 
 ----------------------------------------------------------*/
 
-table {
+/*table {
     border-collapse: collapse;
     border-spacing: 0;
     margin-top: 0.75em;
@@ -777,7 +717,7 @@ td {
 
 tr.pager td {
     padding: 0 0.25em 0 0;
-}
+}*/
 
 
 
@@ -789,7 +729,7 @@ tr.pager td {
 
 ********************/
 
-@media only screen and (max-width: 850px) {
+/*@media only screen and (max-width: 850px) {*/
 
 
 
@@ -797,25 +737,25 @@ tr.pager td {
 
     ----------------------------------------------------------*/
 
-    header .float-left,
+    /*header .float-left,
     header .float-right {
         float: none;
-    }
+    }*/
 
 
 
     /* logo */
 
-    header .site-title {
+    /*header .site-title {
         margin: 10px;
         text-align: center;
-    }
+    }*/
 
 
 
     /* login */
 
-    #login {
+    /*#login {
         font-size: .85em;
         margin: 0 0 12px;
         text-align: center;
@@ -851,13 +791,13 @@ tr.pager td {
 
             #login a:hover {
                 color: #333;
-            }
+            }*/
 
 
 
     /* menu */
 
-    nav {
+    /*nav {
         margin-bottom: 5px;
     }
 
@@ -874,7 +814,7 @@ tr.pager td {
         ul#menu li {
             margin: 0;
             padding: 0;
-        }
+        }*/
 
 
 
@@ -884,7 +824,7 @@ tr.pager td {
 
     ----------------------------------------------------------*/
 
-    .main-content,
+    /*.main-content,
     .featured + .main-content {
         background-position: 10px 0;
     }
@@ -900,22 +840,22 @@ tr.pager td {
 
     .featured .content-wrapper {
         padding: 10px;
-    }
+    }*/
 
 
 
     /* page content */
 
-    article, aside {
+    /*article, aside {
         float: none;
         width: 100%;
-    }
+    }*/
 
 
 
     /* ordered list */
 
-    ol.round {
+    /*ol.round {
         list-style-type: none;
         padding-left: 0;
     }
@@ -940,13 +880,13 @@ tr.pager td {
             ol.round li.eight,
             ol.round li.nine {
                 background: none;
-            }
+            }*/
 
 
 
     /* features */
 
-    section.feature {
+    /*section.feature {
         float: none;
         padding: 10px;
         width: auto;
@@ -959,21 +899,21 @@ tr.pager td {
             content: attr(alt);
             font-size: 1.5em;
             font-weight: 600;
-        }
+        }*/
 
 
 
     /* forms */
 
-    input {
+    /*input {
         width: 90%;
-    }
+    }*/
 
 
 
     /* login page */
 
-    #loginForm {
+    /*#loginForm {
         border-right: none;
         float: none;
         width: auto;
@@ -992,7 +932,7 @@ tr.pager td {
         margin-left: 0;
         float: none;
         width: auto;
-    }
+    }*/
 
 
 
@@ -1002,7 +942,7 @@ tr.pager td {
 
     ----------------------------------------------------------*/
 
-    footer .float-left,
+    /*footer .float-left,
     footer .float-right {
         float: none;
     }
@@ -1020,4 +960,4 @@ tr.pager td {
         footer p {
             margin: 0;
         }
-}
+}*/

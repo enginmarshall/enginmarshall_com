@@ -1,0 +1,121 @@
+﻿@import "variables";
+
+
+a {
+    color: #333;
+    outline: none;
+    padding-left: 3px;
+    padding-right: 3px;
+    color: var(--default-link-color);
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    text-decoration: none;
+}
+
+    a:link, a:visited,
+    a:active, a:hover {
+        color: #fff;
+    }
+
+    a:hover {
+        background-color: #c7d1d6;
+        text-decoration: none;
+        color: #1d9b6c;
+    }
+h1,
+h2, h3,
+h4, h5, h6 {
+    color: #fff;
+    margin: 0 0 2.188rem;
+    text-transform: uppercase;
+    font-family: Montserrat,Helvetica,Verdana,Arial,sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+h2 {
+    font-family:var(--h2-font);
+    font-size: 1.75em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+h4 {
+    font-size: 1.1em;
+}
+
+p {
+    margin: 0 0 25px;
+}
+
+
+.light {
+    font-weight: 400;
+}
+
+
+.logo {
+    font-family: Lora, Helvetica !important;
+    font-size: 3em;
+    margin-right: 1em;
+}
+
+#contact a:hover {
+    padding: 1rem;
+    background-color: var(--link-highlight-color);
+    color: var(--background-color);
+}
+
+.navbar-custom a {
+    color: #fff;
+    font-weight: bold !important;
+    font-family:var(--navbar-font-family);
+}
+
+.navbar-custom .nav li a {
+    -webkit-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+    transition: background .3s ease-in-out;
+}
+
+.navbar-custom .nav li a:hover {
+    outline: 0;
+    color: var(--link-highlight-color);
+    background-color: transparent;
+}
+
+.navbar-custom .nav li a:focus,
+.navbar-custom .nav li a:active {
+    outline: 0;
+    background-color: transparent;
+}
+
+.navbar-custom .nav li.active {
+    outline: 0;
+}
+
+.navbar-custom .nav li.active a {
+    background-color: rgba(255,255,255,.3);
+}
+
+.navbar-custom .nav li.active a:hover {
+    color: #fff;
+}
+
+.brand-heading {
+    font-family: var(--brand-heading-font);
+    font-size: 15rem;
+    letter-spacing: 0.1em;
+    line-height: 1.3em;
+    text-transform: capitalize;
+}
+
+.intro-text {
+    font-family: var(--intro-text-font);
+    font-size: 6rem;
+}

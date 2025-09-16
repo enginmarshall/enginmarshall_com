@@ -1,0 +1,49 @@
+﻿
+@font-face {
+    font-family: 'mulish';
+    font-style: normal;
+    font-weight: 500;
+    src: url(/fonts/Mulish/Mulish-VariableFont_wght.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'borel';
+    font-style: normal;
+    font-weight: 500;
+    src: url(/fonts/Borel/Borel-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'meow_script';
+    font-style: normal;
+    font-weight: 500;
+    src: url(/fonts/Meow_Script/MeowScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'ms_madi';
+    font-style: normal;
+    font-weight: 500;
+    src: url(/fonts/Ms_Madi/MsMadi-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'bungee_tint';
+    font-style: normal;
+    font-weight: 500;
+    src: url(/fonts/Bungee_Tint/BungeeTint-Regular.ttf) format('truetype');
+}
+
+:root {
+    --primary-font-family: mulish, sans-serif;
+    --background-color: #000000;
+    --default-font-color: #ffffff;
+    --default-font-size: 2.5rem;
+    --default-link-color: #42dca3;
+    --link-highlight-color: #42dca3;
+    --navbar-font-family: Montserrat,Helvetica,Arial,sans-serif;
+    --brand-heading-font: ms_madi, Helvetica,Arial,sans-serif;
+    --brand-heading-size: 15rem;
+    --intro-text-font: bungee_tint, Helvetica,Arial,sans-serif;
+    --h2-font: borel, Helvetica,Arial,sans-serif;
+}
