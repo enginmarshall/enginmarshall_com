@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\githubprojects\\enginmarshall_com\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|c:\\githubprojects\\enginmarshall_com\\enginmarshall\\wwwroot\\css\\webgoodies.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C6A306D1-0EC7-C574-D023-896DD6F53B76}|EnginMarshall\\EnginMarshall.csproj|solutionrelative:enginmarshall\\wwwroot\\css\\webgoodies.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "webgoodies.css",
-              "DocumentMoniker": "C:\\githubprojects\\enginmarshall_com\\EnginMarshall\\wwwroot\\css\\webgoodies.css",
-              "RelativeDocumentMoniker": "EnginMarshall\\wwwroot\\css\\webgoodies.css",
-              "ToolTip": "C:\\githubprojects\\enginmarshall_com\\EnginMarshall\\wwwroot\\css\\webgoodies.css",
-              "RelativeToolTip": "EnginMarshall\\wwwroot\\css\\webgoodies.css",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-16T09:05:13.168Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
